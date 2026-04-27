@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Intelligence Applied AI//AI Crystal Ball//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:crystal-ball-2026-06-18@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260618T160000Z
+DTEND:20260618T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+END:VCALENDAR
