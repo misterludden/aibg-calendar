@@ -4,7 +4,7 @@ PRODID:-//Intelligence Applied AI//AI Builders Guild//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:fundamentals-cohort3-2026-08-03@ai-crystal-ball.com
+UID:foundations-cohort3-2026-08-03@ai-crystal-ball.com
 DTSTAMP:20260427T000000Z
 DTSTART:20260803T200000Z
 DTEND:20260803T213000Z
@@ -23,7 +23,7 @@ DESCRIPTION:Foundations session starts in 1 hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fundamentals-cohort3-2026-08-10@ai-crystal-ball.com
+UID:foundations-cohort3-2026-08-10@ai-crystal-ball.com
 DTSTAMP:20260427T000000Z
 DTSTART:20260810T200000Z
 DTEND:20260810T213000Z
@@ -42,7 +42,7 @@ DESCRIPTION:Foundations session starts in 1 hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fundamentals-cohort3-2026-08-17@ai-crystal-ball.com
+UID:foundations-cohort3-2026-08-17@ai-crystal-ball.com
 DTSTAMP:20260427T000000Z
 DTSTART:20260817T200000Z
 DTEND:20260817T213000Z
@@ -61,7 +61,7 @@ DESCRIPTION:Foundations session starts in 1 hour
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:fundamentals-cohort3-2026-08-24@ai-crystal-ball.com
+UID:foundations-cohort3-2026-08-24@ai-crystal-ball.com
 DTSTAMP:20260427T000000Z
 DTSTART:20260824T200000Z
 DTEND:20260824T213000Z
