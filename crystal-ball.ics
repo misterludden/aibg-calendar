@@ -1,0 +1,329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Intelligence Applied AI//AI Crystal Ball//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:crystal-ball-2026-05-07@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260507T160000Z
+DTEND:20260507T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-05-21@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260521T160000Z
+DTEND:20260521T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-06-04@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260604T160000Z
+DTEND:20260604T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-06-18@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260618T160000Z
+DTEND:20260618T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-07-02@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260702T160000Z
+DTEND:20260702T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-07-16@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260716T160000Z
+DTEND:20260716T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-07-30@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260730T160000Z
+DTEND:20260730T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-08-13@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260813T160000Z
+DTEND:20260813T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-08-27@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260827T160000Z
+DTEND:20260827T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-09-10@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260910T160000Z
+DTEND:20260910T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-09-24@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260924T160000Z
+DTEND:20260924T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-10-08@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20261008T160000Z
+DTEND:20261008T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-10-22@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20261022T160000Z
+DTEND:20261022T170000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-11-05@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20261105T170000Z
+DTEND:20261105T180000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-11-19@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20261119T170000Z
+DTEND:20261119T180000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-12-03@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20261203T170000Z
+DTEND:20261203T180000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:crystal-ball-2026-12-17@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20261217T170000Z
+DTEND:20261217T180000Z
+SUMMARY:AI Crystal Ball Session — Live on Zoom
+DESCRIPTION:60 minutes, live on Zoom. No slides, no buzzwords — Angela bu
+ ilds AI tools live in front of you.\n\nJoin link: https://ai-crystal-bal
+ l.com/zoom
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/register
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Crystal Ball starts in 1 hour
+END:VALARM
+END:VEVENT
+END:VCALENDAR

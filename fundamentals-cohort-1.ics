@@ -1,0 +1,82 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Intelligence Applied AI//AI Builders Guild//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:fundamentals-cohort1-2026-05-11@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260511T200000Z
+DTEND:20260511T213000Z
+SUMMARY:AI Builders Guild — Foundations (Session 1 of 4)
+DESCRIPTION:Foundations cohort 1, session 1 of 4. 90 minutes, live on Zoo
+ m.\n\nJoin link: https://ai-crystal-ball.com/zoom\nCommunity (Skool): ht
+ tps://skool.com/the-ai-builders-circle\n\nNo pre-work. Bring your laptop.
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/home
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Foundations session starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fundamentals-cohort1-2026-05-18@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260518T200000Z
+DTEND:20260518T213000Z
+SUMMARY:AI Builders Guild — Foundations (Session 2 of 4)
+DESCRIPTION:Foundations cohort 1, session 2 of 4. 90 minutes, live on Zoo
+ m.\n\nJoin link: https://ai-crystal-ball.com/zoom\nCommunity (Skool): ht
+ tps://skool.com/the-ai-builders-circle\n\nNo pre-work. Bring your laptop.
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/home
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Foundations session starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fundamentals-cohort1-2026-06-01@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260601T200000Z
+DTEND:20260601T213000Z
+SUMMARY:AI Builders Guild — Foundations (Session 3 of 4)
+DESCRIPTION:Foundations cohort 1, session 3 of 4. 90 minutes, live on Zoo
+ m.\n\nJoin link: https://ai-crystal-ball.com/zoom\nCommunity (Skool): ht
+ tps://skool.com/the-ai-builders-circle\n\nNo pre-work. Bring your laptop.
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/home
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Foundations session starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fundamentals-cohort1-2026-06-08@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260608T200000Z
+DTEND:20260608T213000Z
+SUMMARY:AI Builders Guild — Foundations (Session 4 of 4)
+DESCRIPTION:Foundations cohort 1, session 4 of 4. 90 minutes, live on Zoo
+ m.\n\nJoin link: https://ai-crystal-ball.com/zoom\nCommunity (Skool): ht
+ tps://skool.com/the-ai-builders-circle\n\nNo pre-work. Bring your laptop.
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/home
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Foundations session starts in 1 hour
+END:VALARM
+END:VEVENT
+END:VCALENDAR

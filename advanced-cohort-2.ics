@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Intelligence Applied AI//AI Builders Guild//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:advanced-cohort2-2026-06-23@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260623T150000Z
+DTEND:20260623T163000Z
+SUMMARY:AI Builders Guild — Advanced (Session 1 of 6)
+DESCRIPTION:Advanced cohort 2, session 1 of 6. 90 minutes, live on Zoom.\
+ n\nJoin link: https://ai-crystal-ball.com/zoom\nCommunity (Skool): https
+ ://skool.com/the-ai-builders-circle\n\nHave a Mac or Windows laptop read
+ y. We install Claude Code in Week 2.
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/home
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Advanced session starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:advanced-cohort2-2026-06-30@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260630T150000Z
+DTEND:20260630T163000Z
+SUMMARY:AI Builders Guild — Advanced (Session 2 of 6)
+DESCRIPTION:Advanced cohort 2, session 2 of 6. 90 minutes, live on Zoom.\
+ n\nJoin link: https://ai-crystal-ball.com/zoom\nCommunity (Skool): https
+ ://skool.com/the-ai-builders-circle\n\nHave a Mac or Windows laptop read
+ y. We install Claude Code in Week 2.
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/home
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Advanced session starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:advanced-cohort2-2026-07-07@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260707T150000Z
+DTEND:20260707T163000Z
+SUMMARY:AI Builders Guild — Advanced (Session 3 of 6)
+DESCRIPTION:Advanced cohort 2, session 3 of 6. 90 minutes, live on Zoom.\
+ n\nJoin link: https://ai-crystal-ball.com/zoom\nCommunity (Skool): https
+ ://skool.com/the-ai-builders-circle\n\nHave a Mac or Windows laptop read
+ y. We install Claude Code in Week 2.
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/home
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Advanced session starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:advanced-cohort2-2026-07-14@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260714T150000Z
+DTEND:20260714T163000Z
+SUMMARY:AI Builders Guild — Advanced (Session 4 of 6)
+DESCRIPTION:Advanced cohort 2, session 4 of 6. 90 minutes, live on Zoom.\
+ n\nJoin link: https://ai-crystal-ball.com/zoom\nCommunity (Skool): https
+ ://skool.com/the-ai-builders-circle\n\nHave a Mac or Windows laptop read
+ y. We install Claude Code in Week 2.
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/home
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Advanced session starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:advanced-cohort2-2026-07-21@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260721T150000Z
+DTEND:20260721T163000Z
+SUMMARY:AI Builders Guild — Advanced (Session 5 of 6)
+DESCRIPTION:Advanced cohort 2, session 5 of 6. 90 minutes, live on Zoom.\
+ n\nJoin link: https://ai-crystal-ball.com/zoom\nCommunity (Skool): https
+ ://skool.com/the-ai-builders-circle\n\nHave a Mac or Windows laptop read
+ y. We install Claude Code in Week 2.
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/home
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Advanced session starts in 1 hour
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:advanced-cohort2-2026-07-28@ai-crystal-ball.com
+DTSTAMP:20260427T000000Z
+DTSTART:20260728T150000Z
+DTEND:20260728T163000Z
+SUMMARY:AI Builders Guild — Advanced (Session 6 of 6)
+DESCRIPTION:Advanced cohort 2, session 6 of 6. 90 minutes, live on Zoom.\
+ n\nJoin link: https://ai-crystal-ball.com/zoom\nCommunity (Skool): https
+ ://skool.com/the-ai-builders-circle\n\nHave a Mac or Windows laptop read
+ y. We install Claude Code in Week 2.
+LOCATION:Zoom (link in your confirmation email)
+URL:https://ai-crystal-ball.com/home
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-PT1H
+ACTION:DISPLAY
+DESCRIPTION:Advanced session starts in 1 hour
+END:VALARM
+END:VEVENT
+END:VCALENDAR
